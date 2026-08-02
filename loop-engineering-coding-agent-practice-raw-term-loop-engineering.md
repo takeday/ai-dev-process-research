@@ -230,7 +230,7 @@ Graph Engineering 到底是什么、和写单 Agent 循环差在哪、怎么从"
 1. [youtube] 5 Levels of Loop Engineering Explained
    - 2026-06-19 | Grayson Ho | AI Builders Lab | [278views, 13likes, 1cmt] | score:42
    - URL: https://www.youtube.com/watch?v=Llt_HVun7eM
-   - Evidence: 5 Levels of Loop Engineering Explained 📧 Enquiries: grayson.ho.ai@gmail.com 💼 Work with me: https://www.joinaibuilderslab.com 🤖 Ralph (autonomous agent loop): https://github.com/snarktank/ralph 🎥 Run Codex FREE with local models (Ollama): https://www.youtube.com/watch?v=GlBPq94ujUQ 🔥 Get 20% discount on Apify with code: 20GRAYSON Loop engineering is every...
+   - Evidence: 5 Levels of Loop Engineering Explained 📧 Enquiries: [メールアドレス削除] 💼 Work with me: https://www.joinaibuilderslab.com 🤖 Ralph (autonomous agent loop): https://github.com/snarktank/ralph 🎥 Run Codex FREE with local models (Ollama): https://www.youtube.com/watch?v=GlBPq94ujUQ 🔥 Get 20% discount on Apify with code: 20GRAYSON Loop engineering is every...
 
 ### 29. Agent Harness Engineering vs. Loop Engineering vs. Graph Engineering (score 41, 1 item, sources: X)
 1. [x] Agent Harness Engineering vs. Loop Engineering vs. Graph Engineering
@@ -1045,7 +1045,7 @@ This is the Boris Cherny m
 **Llt_HVun7eM** (score:0) Grayson Ho | AI Builders Lab (2026-06-19) [13 likes, 278 views, 1 comments]
   5 Levels of Loop Engineering Explained
   https://www.youtube.com/watch?v=Llt_HVun7eM
-  5 Levels of Loop Engineering Explained 📧 Enquiries: grayson.ho.ai@gmail.com 💼 Work with me: https://www.joinaibuilderslab.com 🤖 Ralph (autonomous agent loop): https://github.com/snarktank/ralph 🎥 Run Codex FREE with local models (Ollama): https://www.youtube.com/watch?v=GlBPq94ujUQ 🔥 Get 20% discount on Apify with code: 20GRAYSON Loop engineering is everywhere right now — and it's not as scary as it sounds. Instead of prompting your AI agent message after message, you design a system that prompt
+  5 Levels of Loop Engineering Explained 📧 Enquiries: [メールアドレス削除] 💼 Work with me: https://www.joinaibuilderslab.com 🤖 Ralph (autonomous agent loop): https://github.com/snarktank/ralph 🎥 Run Codex FREE with local models (Ollama): https://www.youtube.com/watch?v=GlBPq94ujUQ 🔥 Get 20% discount on Apify with code: 20GRAYSON Loop engineering is everywhere right now — and it's not as scary as it sounds. Instead of prompting your AI agent message after message, you design a system that prompt
 
 **i5Z6J6Kft9A** (score:0) Context Window (2026-06-14) [16 likes, 1218 views, 3 comments]
   /goal vs /loop in Claude Code (Full Guide for Devs)

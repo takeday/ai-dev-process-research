@@ -1233,7 +1233,7 @@ This draft pull request delivers the application, database, security, and operat
   <!-- author-email-nudge -->
 Hey @DanielVisca! 👋
 
-It looks like your git author email on this PR isn't your `@posthog.com` address (`danielvisca96@gmail.com`). Since you're on the PostHog team, it's worth pointing your local git author email at your `@posthog.com` address. Why it matters:
+It looks like your git author email on this PR isn't your `@posthog.com` address (`[メールアドレス削除]`). Since you're on the PostHog team, it's worth pointing your local git author email at your `@posthog.com` address. Why it matters:
 
 - **Consis... <!-- greptile_other_comments_section -->
 
@@ -1246,7 +1246,7 @@ services/mcp/src/hono/analytics.ts:124
   Top comment github-actions[bot] (0 votes): <!-- author-email-nudge -->
 Hey @DanielVisca! 👋
 
-It looks like your git author email on this PR isn't your `@posthog.com` address (`danielvisca96@gmail.com`). Since you're on the PostHog team, it's wo
+It looks like your git author email on this PR isn't your `@posthog.com` address (`[メールアドレス削除]`). Since you're on the PostHog team, it's wo
   Top comment greptile-apps[bot] (0 votes): <!-- greptile_other_comments_section -->
 
 <details><summary>Prompt To Fix All With AI</summary>
