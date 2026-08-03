@@ -35,16 +35,16 @@
 
 | # | ファイル | topic | 件数 | 内訳 |
 |---|---|---|---|---|
-| A | `ai-coding-agents-running-unattended-workflows-raw-overnight.md` | AI coding agents running unattended workflows | 115 | HN 61 / X 46 / Reddit 6 / GitHub 1 / YT 1 |
-| B | `ai-multi-agent-parallel-coding-workflows-in-practice-raw-multiagent.md` | AI multi agent parallel coding workflows in practice | 106 | X 52 / HN 48 / Reddit 4 / YT 2 |
-| C | `ai-spec-driven-development-workflows-in-practice-raw-specdriven.md` | AI spec driven development workflows in practice | 51 | HN 23 / X 15 / Reddit 12 / YT 1 |
-| D | `ai-coding-assistant-productivity-measurement-in-production-raw-metrics.md` | AI coding assistant productivity measurement in production | 99 | GitHub 40 / HN 34 / Reddit 14 / YT 7 / X 4 |
+| A | `logs/ai-coding-agents-running-unattended-workflows-raw-overnight.md` | AI coding agents running unattended workflows | 115 | HN 61 / X 46 / Reddit 6 / GitHub 1 / YT 1 |
+| B | `logs/ai-multi-agent-parallel-coding-workflows-in-practice-raw-multiagent.md` | AI multi agent parallel coding workflows in practice | 106 | X 52 / HN 48 / Reddit 4 / YT 2 |
+| C | `logs/ai-spec-driven-development-workflows-in-practice-raw-specdriven.md` | AI spec driven development workflows in practice | 51 | HN 23 / X 15 / Reddit 12 / YT 1 |
+| D | `logs/ai-coding-assistant-productivity-measurement-in-production-raw-metrics.md` | AI coding assistant productivity measurement in production | 99 | GitHub 40 / HN 34 / Reddit 14 / YT 7 / X 4 |
 
 ### 日本語補完（`LAST30DAYS_YT_SUB_LANGS=ja,en` / `--subreddits` なし）
 
 | # | ファイル | topic | 件数 | 内訳 |
 |---|---|---|---|---|
-| JP | `ai-raw-jp.md` | AI 開発プロセス 事例 ワークフロー | 43 | GitHub 25 / X 11 / HN 4 / YT 3 |
+| JP | `logs/ai-raw-jp.md` | AI 開発プロセス 事例 ワークフロー | 43 | GitHub 25 / X 11 / HN 4 / YT 3 |
 
 Reddit は 0件（想定どおり。日本語話題は英語圏コミュニティにほぼ存在しない）。GitHub 25件の多くは個人リポジトリの日本語 Issue で、これが国内の生の実践ログになっている。
 
@@ -52,10 +52,10 @@ Reddit は 0件（想定どおり。日本語話題は英語圏コミュニテ�
 
 | # | ファイル | topic | 件数 | 内訳 |
 |---|---|---|---|---|
-| T1 | `loop-engineering-coding-agent-practice-raw-term-loop-engineering.md` | Loop Engineering coding agent practice | 168 | YT 50 / GitHub 49 / HN 44 / X 22 / Reddit 3 |
-| T2 | `agent-harness-meta-harness-claude-code-codex-raw-term-harness.md` | Agent harness meta harness Claude Code Codex | 124 | YT 40 / HN 33 / X 27 / GitHub 21 / Reddit 3 |
-| T3 | `orchestrator-tax-parallel-coding-agents-limits-raw-term-limits.md` | Orchestrator tax parallel coding agents limits | 103 | X 44 / HN 43 / GitHub 9 / YT 4 / Reddit 3 |
-| T4 | `graph-engineering-agent-workflows-raw-term-graph.md` | Graph engineering agent workflows | 188 | GitHub 71 / X 42 / YT 39 / HN 30 / Reddit 6 |
+| T1 | `logs/loop-engineering-coding-agent-practice-raw-term-loop-engineering.md` | Loop Engineering coding agent practice | 168 | YT 50 / GitHub 49 / HN 44 / X 22 / Reddit 3 |
+| T2 | `logs/agent-harness-meta-harness-claude-code-codex-raw-term-harness.md` | Agent harness meta harness Claude Code Codex | 124 | YT 40 / HN 33 / X 27 / GitHub 21 / Reddit 3 |
+| T3 | `logs/orchestrator-tax-parallel-coding-agents-limits-raw-term-limits.md` | Orchestrator tax parallel coding agents limits | 103 | X 44 / HN 43 / GitHub 9 / YT 4 / Reddit 3 |
+| T4 | `logs/graph-engineering-agent-workflows-raw-term-graph.md` | Graph engineering agent workflows | 188 | GitHub 71 / X 42 / YT 39 / HN 30 / Reddit 6 |
 
 ---
 

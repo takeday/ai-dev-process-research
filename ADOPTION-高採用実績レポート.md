@@ -27,9 +27,9 @@
 
 | ラン | topic | 期間 | 件数 | 保存ファイル |
 |---|---|---|---|---|
-| E1 | Enterprise AI coding assistant rollout results | 90日 | 202 | `*-raw-adopt-enterprise.md` |
-| E2 | GitHub Copilot enterprise measured impact | 90日 | 127 | `*-raw-adopt-copilot.md` |
-| EJP | 企業 全社 生成AI 開発 導入 成果 | 90日 | 66 | `*-raw-adopt-jp.md` |
+| E1 | Enterprise AI coding assistant rollout results | 90日 | 202 | `logs/*-raw-adopt-enterprise.md` |
+| E2 | GitHub Copilot enterprise measured impact | 90日 | 127 | `logs/*-raw-adopt-copilot.md` |
+| EJP | 企業 全社 生成AI 開発 導入 成果 | 90日 | 66 | `logs/*-raw-adopt-jp.md` |
 
 加えてホストWebSearchで企業技術ブログ・調査レポート層を収集（本レポートの主要部分）。
 
