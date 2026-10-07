@@ -40,6 +40,14 @@
 
 `logs/*-raw-*.md` は検索エンジンの出力そのもので、出典URL・エンゲージメント数・投稿本文の抜粋を含みます。
 
+### 参考資料（追加調査）
+
+本調査（2026-07-31〜08-03）の後に、個別のテーマで追加した調査です。上の「調査の規模」の集計には含めていません。
+
+| ファイル | 内容 | 生ログ |
+|---|---|---|
+| [`参考資料/2026-09-28-ClaudeCode-Codex併用の事例と工夫.md`](参考資料/2026-09-28-ClaudeCode-Codex併用の事例と工夫.md) | Claude Code と Codex を併用する事例と工夫（2026-08-28〜09-27、76件） | [`logs/claude-code-codex-combined-workflow-raw-codex-combo.md`](logs/claude-code-codex-combined-workflow-raw-codex-combo.md) |
+
 ---
 
 ## 調査の規模
