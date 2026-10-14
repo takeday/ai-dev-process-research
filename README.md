@@ -47,6 +47,7 @@
 | ファイル | 内容 | 生ログ |
 |---|---|---|
 | [`参考資料/2026-09-28-ClaudeCode-Codex併用の事例と工夫.md`](参考資料/2026-09-28-ClaudeCode-Codex併用の事例と工夫.md) | Claude Code と Codex を併用する事例と工夫（2026-08-28〜09-27、76件） | [`logs/claude-code-codex-combined-workflow-raw-codex-combo.md`](logs/claude-code-codex-combined-workflow-raw-codex-combo.md) |
+| [`参考資料/2026-10-14-勉強会-AI時代全員がリーダーになる.md`](参考資料/2026-10-14-勉強会-AI時代全員がリーダーになる.md) | マインド醸成の勉強会資料（Marp、30分・質疑込み、発表者ノート付き）。AI時代のエンジニアの姿勢に関する海外の議論（2026-09-14〜10-14、117件）を根拠に使用 | [`logs/ai-native-engineer-mindset-and-culture-raw-mindset.md`](logs/ai-native-engineer-mindset-and-culture-raw-mindset.md) |
 
 ---
 
