@@ -50,6 +50,7 @@
 | [`参考資料/2026-10-14-勉強会-AI時代全員がリーダーになる.md`](参考資料/2026-10-14-勉強会-AI時代全員がリーダーになる.md) | マインド醸成の勉強会資料（Marp、30分・質疑込み、発表者ノート付き）。AI時代のエンジニアの姿勢に関する海外の議論（2026-09-14〜10-14、117件）を根拠に使用 | [`logs/ai-native-engineer-mindset-and-culture-raw-mindset.md`](logs/ai-native-engineer-mindset-and-culture-raw-mindset.md) |
 | [`参考資料/2026-10-28-Codex主体-ClaudeCode補助の活用事例.md`](参考資料/2026-10-28-Codex主体-ClaudeCode補助の活用事例.md) | Codex を主力に Claude Code を補助的に使う開発者の見解と活用事例（2026-09-27〜10-27、96件） | [`logs/codex-as-primary-coding-agent-with-claude-code-as-secondary-raw-codex-primary.md`](logs/codex-as-primary-coding-agent-with-claude-code-as-secondary-raw-codex-primary.md) |
 | [`参考資料/2026-10-30-Claude-Codexに加える3つ目の生成AI候補.md`](参考資料/2026-10-30-Claude-Codexに加える3つ目の生成AI候補.md) | Claude・Codex に加える3つ目の生成AI候補の比較（定額 $100〜125/月、FrontierCode 2.0 の性能、VS Code 拡張・CLI の対応）。推奨は Google AI Ultra 5x | なし（Web 検索のみ） |
+| [`参考資料/2026-10-30-Gemini-Grokをメインで使う開発者の声.md`](参考資料/2026-10-30-Gemini-Grokをメインで使う開発者の声.md) | Gemini（Antigravity）・Grok（Grok Build）をメインで使う開発者の声（2026-09-29〜10-29、75件）。Gemini 4 Argon・Carbon への反応、Antigravity の枠問題、Grok Build の評価 | [`logs/gemini-antigravity-or-grok-build-as-main-coding-agent-raw-gemini-grok-main.md`](logs/gemini-antigravity-or-grok-build-as-main-coding-agent-raw-gemini-grok-main.md) |
 
 ---
 
