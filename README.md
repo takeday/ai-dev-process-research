@@ -51,6 +51,7 @@
 | [`参考資料/2026-10-28-Codex主体-ClaudeCode補助の活用事例.md`](参考資料/2026-10-28-Codex主体-ClaudeCode補助の活用事例.md) | Codex を主力に Claude Code を補助的に使う開発者の見解と活用事例（2026-09-27〜10-27、96件） | [`logs/codex-as-primary-coding-agent-with-claude-code-as-secondary-raw-codex-primary.md`](logs/codex-as-primary-coding-agent-with-claude-code-as-secondary-raw-codex-primary.md) |
 | [`参考資料/2026-10-30-Claude-Codexに加える3つ目の生成AI候補.md`](参考資料/2026-10-30-Claude-Codexに加える3つ目の生成AI候補.md) | Claude・Codex に加える3つ目の生成AI候補の比較（定額 $100〜125/月、FrontierCode 2.0 の性能、VS Code 拡張・CLI の対応）。推奨は Google AI Ultra 5x | なし（Web 検索のみ） |
 | [`参考資料/2026-10-30-Gemini-Grokをメインで使う開発者の声.md`](参考資料/2026-10-30-Gemini-Grokをメインで使う開発者の声.md) | Gemini（Antigravity）・Grok（Grok Build）をメインで使う開発者の声（2026-09-29〜10-29、75件）。Gemini 4 Argon・Carbon への反応、Antigravity の枠問題、Grok Build の評価 | [`logs/gemini-antigravity-or-grok-build-as-main-coding-agent-raw-gemini-grok-main.md`](logs/gemini-antigravity-or-grok-build-as-main-coding-agent-raw-gemini-grok-main.md) |
+| [`参考資料/2026-10-30-Gemini-Grokの法人利用プラン.md`](参考資料/2026-10-30-Gemini-Grokの法人利用プラン.md) | Gemini・Grok を法人で使う場合の料金体系。Workspace の Ultra アドオン終了、Gemini Enterprise の席課金（Antigravity 枠は月 $10〜15）と従量課金・上限額設定、Grok Business。法人前提では Ultra 5x 推奨を取り下げ | なし（Web 検索のみ） |
 
 ---
 
